@@ -54,17 +54,3 @@ Frontend
 cd Frontend
 npm install
 npm run dev
-
-🔒 Security & Privacy
-
-Secure authentication and protected routes
-
-Safe file upload handling
-
-Environment-based configuration for sensitive data
-
-Privacy-first design approach
-
-🎯 Purpose & Impact
-
-Save Heaven aims to make reporting safer, reduce barriers to seeking help, and provide access to essential resources in a supportive digital environment.
